@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
----
 ### Outlier removal for point clouds
 
 - Implemented a parameter-free denoise algorithm for arbitrary dimensions. The result is guaranteed to be Hausdorff close to the ground truth.
@@ -12,7 +11,6 @@ Mickaël Buchet, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Declutter and resamp
 [slide](/pdf/pafree.pdf)
 [arxiv](https://arxiv.org/abs/1511.05479)
 
----
 <img src="images/pafree-algo.png?raw=true">
 <img src="images/pafree.png?raw=true">
 <img src="images/pafree-high-dimen.png?raw=true">
