@@ -51,10 +51,10 @@ Mickaël Buchet, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Declutter and resamp
 
 ---
 ## Course projects
-- [<strong>Computatioanl Topology</strong>: Denoising on high-dimension datasets](pdf/ct-project.pdf)
-- [<strong>Real Time Rendering</strong>: Solar system simulation](https://wangjiayuan007.github.io/solar-system/)
-- [<strong>Data Visualization</strong>: Visualize the Gradient Descent Method for High Dimension Functions]( https://wangjiayuan007.github.io/vis-final/)
-- [<strong>Data Visualization</strong>: Migration of notable individuals in Europe](https://wangjiayuan007.github.io/vis-mid/)
+- Computatioanl Topology: [Denoising on high-dimension datasets](pdf/ct-project.pdf)
+- Real Time Rendering: [Solar system simulation](https://wangjiayuan007.github.io/solar-system/)
+- Data Visualization: [Visualize the Gradient Descent Method for High Dimension Functions]( https://wangjiayuan007.github.io/vis-final/)
+- Data Visualization: [Migration of notable individuals in Europe](https://wangjiayuan007.github.io/vis-mid/)
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
