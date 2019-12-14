@@ -56,31 +56,7 @@ Mickaël Buchet, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Declutter and resamp
 - Data Visualization: [Visualize the Gradient Descent Method for High Dimension Functions]( https://wangjiayuan007.github.io/vis-final/)
 - Data Visualization: [Migration of notable individuals in Europe](https://wangjiayuan007.github.io/vis-mid/)
 
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-<img src="images/pafree.png?raw=true" width="200" height="100">
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
+<img src="images/course.png?raw=true"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
