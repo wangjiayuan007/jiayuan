@@ -5,8 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  Email:
+  
+  Email: wang(dot)6195(at)osu.edu
+ 
   <a href="https://www.linkedin.com/in/jiayuan-wang-9006aa177/">LinkedIn Profile</a> 
+  
   <a href="https://scholar.google.com/citations?user=kf3QgE4AAAAJ&hl=en">Google Scholar</a> 
   
 theme: jekyll-theme-minimal
