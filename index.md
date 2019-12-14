@@ -3,7 +3,7 @@
 ### Automatic  Road Extraction from Satellite Images
 
 - Implemented a method that consists of image segmentation by CNN(U-Net) and centerline extraction.
--  Conducted experiments on datasets from [Spacenet challenge]{https://spacenetchallenge.github.io/Challenges/Challenge-3.html}. Scores are higher than the winner’s with better connections and less noise.
+-  Conducted experiments on datasets from [Spacenet challenge](https://spacenetchallenge.github.io/Challenges/Challenge-3.html). Scores are higher than the winner’s with better connections and less noise.
 - Developed a novel framework without labelled data by applying the graph reconstruction algorithm iteratively to improve the accuracy of the CNN.
 
 Road Network Reconstruction from Satellite Images with Machine Learning Supported by Topological Methods
