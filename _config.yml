@@ -1,7 +1,14 @@
 title: Jiayuan Wang # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+          <p>I am a phd candidate in the Computer Science and Engineering Department at the Ohio State University. 
+            I am co-advised by Prof. <a href="http://web.cse.ohio-state.edu/~dey.8/">Tamal Dey</a> and 
+            Prof. <a href="http://web.cse.ohio-state.edu/~wang.1016/">Yusu Wang</a>. 
+            My research focuses on data analysis via computational geometry/topology with applications
+            in machine learning, computer vision, visualization and graphics. More specifically, I work on
+            processing noisy datasets in the following scenarios: Removing outliers from point clouds and recovering
+            signals from density fields. Before coming to OSU, 
+            I obtained my B.S. degree in Mathematics and Applied Mathematics from Zhejiang University in 2014.</p>
   <br><br>
   Second description 
   <br><br>
