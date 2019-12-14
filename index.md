@@ -19,8 +19,7 @@ Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Road Network Reconstruction f
 [poster]()
 [slide]()
 
-
-
+---
 ---
 ### Ridge extraction from density field with discrete Morse theory
 
@@ -43,6 +42,7 @@ Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Improved road network reconst
 <img src="images/dm-theory.png?raw=true">
 <img src="images/dm-advan.png?raw=true">
 
+---
 ---
 ### Outlier removal for point clouds
 
