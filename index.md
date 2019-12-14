@@ -6,13 +6,20 @@
 - Designed the first noise model and proved the theoretical guarantee for a ridge extraction algorithm.
 - Applied the algorithm to reconstructing road networks from GPS trajectories/satellite images, extracting the filament structures from the cosmology data/biomedical images of neurons and bones, and simplifying lines for rough sketches.
 
-See applications on different datasets [here].
+<img src="images/pafree-algo.png?raw=true">
+
+
+[arxiv](https://arxiv.org/abs/1803.05093)
+[slide](/pdf/graph_reconstruction_slide.pdf)
+[poster](/pdf/dm.pdf)
 
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <em>In Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (p. 58).</em> ACM.
-[arxiv]
-[slide]
-[poster]
 
+
+
+<img src="images/dm-basics.png?raw=true">
+<img src="images/dm-theory.png?raw=true">
+<img src="images/dm-advan.png?raw=true">
 
 ---
 ### Outlier removal for point clouds
