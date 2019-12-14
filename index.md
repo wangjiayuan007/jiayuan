@@ -1,5 +1,7 @@
 I am a phd candidate in the Computer Science and Engineering Department at the Ohio State University. I am co-advised by [Prof. Tamal Dey](http://web.cse.ohio-state.edu/~dey.8/) and [Prof. Yusu Wang](http://web.cse.ohio-state.edu/~wang.1016/). My research focuses on data analysis via computational geometry/topology with applications in machine learning, computer vision, visualization and graphics. More specifically, I work on processing noisy datasets in the following scenarios: Removing outliers from point clouds and recovering signals from density fields. Before coming to OSU, I obtained my B.S. degree in Mathematics and Applied Mathematics from Zhejiang University in 2014.
 
+---
+
 ## Projects
 
 ### Automatic  Road Extraction from Satellite Images
