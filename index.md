@@ -10,7 +10,7 @@
 Buchet, Mickaël, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Declutter and resample: Towards parameter free denoising. <em>In Proceedings of the 33rd annual symposium on Computational geometry (SoCG)</em>, 2017.
 
 [slide]()
-[arxiv](https://arxiv.org/abs/1511.05479")
+[arxiv](https://arxiv.org/abs/1511.05479)
 
 ---
 <img src="images/pafree.png?raw=true">
