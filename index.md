@@ -17,10 +17,13 @@ I'm actively seeking for a full time Software Engineer/Research Scientist positi
 - Developed a novel framework without labelled data by applying the graph reconstruction algorithm iteratively to improve the accuracy of the CNN.
 
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Road Network Reconstruction from Satellite Images with Machine Learning Supported by Topological Methods.</strong> <em>In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems.</em> ACM. 
-[arxiv]()
-[poster]()
-[slide]()
+[arxiv](https://arxiv.org/abs/1909.06728)
+[poster](pdf/satellite-extarction-poster.pdf)
+[slide](pdf/roadExtractionTDA_JiayuanWang.pdf)
 
+<img src="images/satellite-pipeline.png?raw=true">
+<img src="images/semi.png?raw=true">
+<img src="images/fully.png?raw=true">
 ---
 ---
 ### Ridge extraction from density field with discrete Morse theory
@@ -28,7 +31,8 @@ Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Road Network Reconstruction f
 - Designed the first noise model and proved the theoretical guarantee for a ridge extraction algorithm.
 - Applied the algorithm to reconstructing road networks from GPS trajectories/satellite images, extracting the filament structures from the cosmology data/biomedical images of neurons and bones, and simplifying lines for rough sketches.
 
-<img src="images/pafree-algo.png?raw=true">
+<img src="images/dm-app1.png?raw=true">
+<img src="images/dm-app2.png?raw=true">
 
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Graph reconstruction by discrete Morse theory.</strong> <em>In Proceedings of the 34rd annual symposium on Computational geometry (SoCG)</em>, 2018.
 [arxiv](https://arxiv.org/abs/1803.05093)
