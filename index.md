@@ -17,9 +17,8 @@
 
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <em>In Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (p. 58).</em> ACM.
 
-[poster]()
-[video](images/Edit_strategy.mp4)
-
+[poster](pdf/poster_final_Morse.pdf)
+[video](https://drive.google.com/file/d/1dPGni7lD0BSUNVayi3wiQNVmucQRPIsh/view?usp=sharing)
 
 <img src="images/dm-basics.png?raw=true">
 <img src="images/dm-theory.png?raw=true">
