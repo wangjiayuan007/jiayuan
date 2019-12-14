@@ -1,6 +1,20 @@
 ## Portfolio
 
 ---
+### Ridge extraction from density field with discrete Morse theory
+
+- Designed the first noise model and proved the theoretical guarantee for a ridge extraction algorithm.
+- Applied the algorithm to reconstructing road networks from GPS trajectories/satellite images, extracting the filament structures from the cosmology data/biomedical images of neurons and bones, and simplifying lines for rough sketches.
+
+See applications on different datasets [here].
+
+Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <em>In Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (p. 58).</em> ACM.
+[arxiv]
+[slide]
+[poster]
+
+
+---
 ### Outlier removal for point clouds
 
 - Implemented a parameter-free denoise algorithm for arbitrary dimensions. The result is guaranteed to be Hausdorff close to the ground truth.
@@ -15,6 +29,8 @@ Mickaël Buchet, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Declutter and resamp
 <img src="images/pafree.png?raw=true">
 <img src="images/pafree-high-dimen.png?raw=true">
 ---
+
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
