@@ -7,7 +7,9 @@ I'm actively seeking for a full time Software Engineer/Research Scientist positi
 ---
 
 ## Projects
+
 ---
+
 ### Automatic  Road Extraction from Satellite Images
 
 - Implemented a method that consists of image segmentation by CNN(U-Net) and centerline extraction.
@@ -59,6 +61,7 @@ Mickaël Buchet, Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <strong>Declutter an
 
 ---
 ---
+
 ## Course projects
 - Computatioanl Topology: [Denoising on high-dimension datasets](pdf/ct-project.pdf)
 - Real Time Rendering: [Solar system simulation](https://wangjiayuan007.github.io/solar-system/)
