@@ -5,8 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="200" height="100">
-<img src="images/dummy_thumbnail.jpg?raw=true" width="200" height="100">
+<img src="images/pafree.png?raw=true">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -15,6 +14,8 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/pafree.png?raw=true" width="200" height="100">
 
 ---
 
