@@ -6,7 +6,6 @@
 -  Conducted experiments on datasets from [Spacenet challenge](https://spacenetchallenge.github.io/Challenges/Challenge-3.html). Scores are higher than the winner’s with better connections and less noise.
 - Developed a novel framework without labelled data by applying the graph reconstruction algorithm iteratively to improve the accuracy of the CNN.
 
-Road Network Reconstruction from Satellite Images with Machine Learning Supported by Topological Methods
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. Road Network Reconstruction from Satellite Images with Machine Learning Supported by Topological Methods. <em>In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems.</em> ACM. 
 [arxiv]()
 [poster]()
