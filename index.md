@@ -8,13 +8,17 @@
 
 <img src="images/pafree-algo.png?raw=true">
 
+ Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <em>In Proceedings of the 34rd annual symposium on Computational geometry (SoCG)</em>, 2018.
 
 [arxiv](https://arxiv.org/abs/1803.05093)
+[code](https://github.com/wangjiayuan007/graph_recon_DM)
 [slide](/pdf/graph_reconstruction_slide.pdf)
 [poster](/pdf/dm.pdf)
 
 Tamal K. Dey, Jiayuan Wang, and Yusu Wang. <em>In Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (p. 58).</em> ACM.
 
+[poster]()
+[video](images/Edit_strategy.mp4)
 
 
 <img src="images/dm-basics.png?raw=true">
