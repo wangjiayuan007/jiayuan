@@ -1,8 +1,8 @@
-I am a phd candidate in the Computer Science and Engineering Department at the Ohio State University. I am co-advised by [Prof. Tamal Dey](http://web.cse.ohio-state.edu/~dey.8/) and [Prof. Yusu Wang](http://web.cse.ohio-state.edu/~wang.1016/).  Before coming to OSU, I obtained my B.S. degree in Mathematics and Applied Mathematics from Zhejiang University in 2014. 
+I'm actively seeking for a full time Software Engineer/Machine learning engineer/Data scientist position. Please feel free to contact me.
 
-My research focuses on data analysis via computational geometry/topology with applications in machine learning, computer vision, visualization and graphics. More specifically, I work on processing noisy datasets in the following scenarios: Removing outliers from point clouds and recovering signals from density fields.
+I worked on cloud platform compute optimization at Google for two and a half years. I owned the machine learning models and data pipelines to identify cloud customer workloads, evaluate Google Compute Engine products performances and analyze cloud workloads characteristics.
 
-I'm actively seeking for a full time Software Engineer/Research Scientist position. Please feel free to contact me.
+I obtained my PhD in the Computer Science and Engineering Department from the Ohio State University. I was co-advised by [Prof. Tamal Dey](http://web.cse.ohio-state.edu/~dey.8/) and [Prof. Yusu Wang](http://web.cse.ohio-state.edu/~wang.1016/).  Before coming to OSU, I obtained my B.S. degree in Mathematics and Applied Mathematics from Zhejiang University in 2014. My research focused on data analysis via computational geometry/topology with applications in machine learning, computer vision, visualization and graphics. More specifically, I worked on processing noisy datasets in the following scenarios: Removing outliers from point clouds and recovering signals from density fields.
 
 ---
 
